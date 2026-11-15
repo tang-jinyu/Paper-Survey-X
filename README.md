@@ -72,8 +72,18 @@ paper-survey-x/
 ```
 
 ## 效果示例
+1. 描述简洁
+<img width="2416" height="1449" alt="image" src="https://github.com/user-attachments/assets/974c15ba-8d30-429c-b5ff-e66e4f984230" />
+2. 生成物
+<img width="2359" height="1257" alt="image" src="https://github.com/user-attachments/assets/2b86acf7-e376-483f-9f0e-5d53b8afc197" />
+<img width="1255" height="599" alt="image" src="https://github.com/user-attachments/assets/f1d48611-b7cc-4e77-a788-fc7b20b3520c" />
+<img width="1070" height="610" alt="image" src="https://github.com/user-attachments/assets/2e2d0591-a4e3-43a6-b7f2-70071be42e0e" />
+<img width="1822" height="1176" alt="image" src="https://github.com/user-attachments/assets/ea79898a-e93d-4781-bac2-e56a800ed5ef" />
+<img width="1590" height="1188" alt="image" src="https://github.com/user-attachments/assets/fe534068-176f-42fb-9551-a8ebea1d0034" />
+<img width="947" height="639" alt="image" src="https://github.com/user-attachments/assets/0a0b6d77-414e-4c51-bdb7-eef9897356b9" />
 
-（欢迎 PR 补充你的调研结果截图）
+
+
 
 ## 贡献与协议
 
